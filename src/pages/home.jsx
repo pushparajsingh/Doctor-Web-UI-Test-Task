@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import person from "../assets/person.svg";
 import AmrutamLogo from "../assets/AmrutamLogo.svg";
-import GroupDoctor from "../assets/GroupDoctor.svg";
+import GroupDoctor from "../assets/groupDoctor.svg";
 import TimesOfIndia from "../assets/TimesOfIndia.svg";
 import YourStory from "../assets/YourStory.svg";
 import Traveler from "../assets/Traveler.svg";
@@ -44,7 +44,7 @@ import Instagram from "../assets/Insta.svg";
 import YouTube from "../assets/YouTube.svg";
 import Twitter from "../assets/Twitter.svg";
 import Linkdin from "../assets/Linkdin.svg";
-import PI from "../assets/pin.svg";
+import PI from "../assets/Pin.svg";
 
 const Home = () => {
   return (
